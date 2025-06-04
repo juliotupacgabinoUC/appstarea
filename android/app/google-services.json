@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329204592665",
+    "project_id": "proyecto-final-jtg-tienda",
+    "storage_bucket": "proyecto-final-jtg-tienda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329204592665:android:391fb2607a67fca8107a88",
+        "android_client_info": {
+          "package_name": "com.example.tienda_final_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzvHkOSaD8GEcy5TwZWvZvmKk-DrkMPTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import '../../pages/cart_page.dart';
 import '../../pages/home_page.dart';
 import '../../pages/account_page.dart';
+import 'cart_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
